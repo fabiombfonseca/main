@@ -1,9 +1,5 @@
 ## Fabio Miguel Blasak da Fonseca
 
-You can use the [editor on GitHub](https://github.com/fabiombfonseca/fabiofonseca.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 ### About Me
 
 - Senior professional with over 18 years in IT area with experience in both private and public sectors. Large experience in database SQL and NoSQL technologies (Oracle, MySQL, SQL Server, Mongo, Cassandra, Couchbase, Redis, Teradata, Greenplum) and data engineer - Python, R, Oracle PLSQL, T-SQL, Python, SQL, R, Windows PowerShell and Linux Shell scripts, Ansible, Celonis, StreamSets, MS SQL SSIS, Kafka, Hadoop and Spark.
