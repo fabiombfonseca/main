@@ -2,28 +2,23 @@
 
 ### About Me
 
-- Senior professional with over 18 years in IT area with experience in both private and public sectors. Large experience in database SQL and NoSQL technologies (Oracle, MySQL, SQL Server, Mongo, Cassandra, Couchbase, Redis, Teradata, Greenplum) and data engineer - Python, R, Oracle PLSQL, T-SQL, Python, SQL, R, Windows PowerShell and Linux Shell scripts, Ansible, Celonis, StreamSets, MS SQL SSIS, Kafka, Hadoop and Spark.
-- Planned and implemented CI/CD for Data Pipelines deployment in Services domain and trained developer team to use this automated process. It have reduced manual deployments in 70% of time and provide autonomy for developer team.
-- Two patents in US Patent Offices and recognized as first employee at Dell IT to have a patent granted and mentored first interns to have a patent granted at Dell IT LATAM.
-- Spearheaded the launch and marketing of the product to DDC users base, which went live to 1000+ users.
-- Collaborated with product line architects to re-architect a multi-page web app into a single web app, simplifying and enhanced user interface. Reduced user clicks to go to main features by 40% and reduced third-party developments hours in 25%.
-- Coordinated with Operations and Database Engineering team 100+ database migrations to Open Source/shared clusters to reduce license costs. Achieved 40% reduction of database licensing costs.
+Results-driven IT leader with over 21 years of experience delivering enterprise data and AI solutions across the private and public sectors. Specializing in scalable data platforms, databases, automation and GenAI enablement, I bring a deep technical background combined with strong business alignment and strategic thinking.
 
-Certifications:
-- Oracle ACE Associate ♠
-- PMP - Project Management Professional.
-- IBM IT Specialist - Data Management - Level Three (Thought Leader). Fourteen certified in Latin America and Fourth certified at IBM GTS Brazil.
-- IBM Demonstrating Leadership and Competences - Level Two (Expert).
-- Open Group Distinguish IT Specialist. Sixth certified in Brazil.
-- OCP - Oracle Certified Professional 10g and 11g.
-- Lean Six Sigma - Yellow Belt.
-- ITIL Foundations V3.
-- PCAP - Certified Associate in Python Programming.
-- Open Group TOGAF 9.2 Certified.
-- Apache Airflow Fundamentals.
-- Gitlab Certified Associate.
+Currently at Dell Technologies, I lead architecture initiatives that power real-time data ingestion and retrieval for analytics, operational intelligence, and AI use cases. My work includes the design and deployment of AI Data-as-a-Service platforms supporting RAG (retrieval-augmented generation), semantic search, and unstructured data access using embeddings and vector databases.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I have broad expertise in SQL and NoSQL databases (Oracle, MySQL, SQL Server, Postgres, MongoDB, Cassandra, Couchbase, Redis, Teradata, Greenplum) and data engineering tools such as Python, R, Oracle PLSQL, T-SQL, Shell scripts, Ansible, Celonis, StreamSets, MS SQL SSIS, Kafka, Hadoop, Spark, and Airflow.
+
+Notable Achievements:
+ • 🚀 Launched a data platform used by over 1,000 internal users, improving data availability and platform usability.
+ • ⚙️ Implemented CI/CD pipelines for data workflows, reducing manual deployment time by 70% and empowering dev teams with self-service capabilities.
+ • 💡 Co-inventor of 2 U.S. patents in intelligent data automation; first Dell IT employee granted a patent, and mentor to interns who achieved the first LATAM Dell IT patents.
+ • 🧠 Re-architected a multi-page internal web app into a streamlined single-page app, reducing user clicks by 40% and third-party dev hours by 25%.
+ • 💰 Led 100+ DB migrations to open-source/shared clusters, cutting licensing costs by 40%.
+ • 🌟 Led Dell’s first Celonis integration with private cloud, migrating 40TB+ from hybrid clusters to AWS-backed infrastructure using S3 + Parquet, enabling secure, scalable access for 200+ global users and powering ML use via a Feature Store architecture. 
+
+I thrive on cross-functional collaboration and have worked closely with product architects, engineering, and operations to align technical execution with business goals. I’m also passionate about mentoring and growing the next generation of data professionals.
+
+Now expanding focus on MLOps, data observability, governance, and vector-native architectures for AI scalability.
 
 ```markdown
 Syntax highlighted code block
